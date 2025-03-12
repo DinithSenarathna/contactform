@@ -11,6 +11,9 @@ This is a simple **contact form** built using **HTML, CSS, and JavaScript**. It 
 - Fully responsive design with a modern and clean UI
 - Smooth hover and transition effects
 
+## Live Demo
+`https://dinithscontactform.netlify.app`
+
 ## Technologies Used
 
 - HTML
